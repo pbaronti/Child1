@@ -1,0 +1,1 @@
+am new for Android coding, and have writen a code to get location of Android Device but failed. Nothing changed (e.g. mLastKnownLocation or cityName) after runing, and no expception. I have 
